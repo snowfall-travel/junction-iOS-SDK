@@ -7,7 +7,7 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "TestFramwork"
+  spec.name         = "junction-iOS-SDK"
   spec.version      = "1.0.0"
   spec.summary      = "FrameWork for life travel"
   spec.description  = "The best framework for the travel bookings"
