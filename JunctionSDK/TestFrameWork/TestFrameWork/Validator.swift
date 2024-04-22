@@ -1,6 +1,6 @@
 //
 //  Validator.swift
-//  TestFramwork
+//  TestFrameWork
 //
 //  Created by Davit on 22.04.24.
 //
