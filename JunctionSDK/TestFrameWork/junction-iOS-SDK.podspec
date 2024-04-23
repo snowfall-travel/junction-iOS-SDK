@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "junction-iOS-SDK"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "FrameWork for life travel"
   spec.description  = "The best framework for the travel bookings"
 
@@ -17,6 +17,8 @@ Pod::Spec.new do |spec|
   spec.author             = { "Davit" => "davidb@snowfalltravel.com" }
 
   spec.platform     = :ios, "15.0"
+    spec.ios.vendored_frameworks = 'TestFrameWork.framework'
+
   spec.source       = { :git => "https://github.com/snowfall-travel/junction-iOS-SDK.git", :tag => spec.version.to_s }
 
   spec.source_files  = "JunctionSDK/**/*.{swift}"
