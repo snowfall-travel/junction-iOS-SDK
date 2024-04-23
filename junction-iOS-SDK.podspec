@@ -14,16 +14,19 @@ Pod::Spec.new do |spec|
 
   spec.homepage     = "https://github.com/snowfall-travel/junction-iOS-SDK"
   spec.license      = "MIT"
-  spec.author             = { "Davit" => "davidb@snowfalltravel.com" }
+  spec.author       = { "Davit" => "davidb@snowfalltravel.com" }
 
   spec.platform     = :ios, "15.0"
     spec.ios.vendored_frameworks = 'TestFrameWork.framework'
 
-  spec.source       = { :git => "https://github.com/snowfall-travel/junction-iOS-SDK.git", :tag => spec.version.to_s }
+ # spec.source      = { :http => 'https://sevo-test.s3.eu-west-2.amazonaws.com/JunctionSDK.zip'}
+    spec.source     = { :git => 'https://github.com/snowfall-travel/junction-iOS-SDK.git', :tag => spec.version }
 
-  spec.source_files  = "JunctionSDK/**/*.{swift}"
+ 
+
+ # spec.source_files  = "JunctionSDK/**/*.{swift}"
   
-  spec.swift_version = "5.0"
+ # spec.swift_version = "5.0"
 
 
 end
