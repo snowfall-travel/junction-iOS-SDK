@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/TestFrameWork-Swift.h</key>
 		<data>
-		kyIrg1yBAyU3YJZhZM1f8kxUkgc=
+		nT6GeKMF/YvMOEF6W0rLPzcXk90=
 		</data>
 		<key>Headers/TestFrameWork.h</key>
 		<data>
@@ -15,6 +15,26 @@
 		<key>Info.plist</key>
 		<data>
 		/B/7helsM9WHf85Zj+F/ovtx8ck=
+		</data>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		WuoMx6VFVuLZnGOgg/3LpErk/Q4=
+		</data>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		nMHfrsMCi2YfRH3pyzTEXwr5+Wo=
+		</data>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		zg2qlV5GngbSvz+fpToYd0Q55cU=
+		</data>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		nMHfrsMCi2YfRH3pyzTEXwr5+Wo=
+		</data>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		TfvYnWP3igQNbzVDCBDtXEws0aM=
 		</data>
 		<key>Modules/TestFrameWork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -47,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Uqlj/P4hqgVC2UzMoaHhR/7lCOtBr6fh6s4A5VJqWE=
+			PIiNuQQ7rtT5LccGcTqfFX8mm0Frx1i2pg6KCvnJT8w=
 			</data>
 		</dict>
 		<key>Headers/TestFrameWork.h</key>
@@ -55,6 +75,41 @@
 			<key>hash2</key>
 			<data>
 			xJoy7x8ygXwYB2iqWluCxfihu65aA5RjZ+T2t5n/qGA=
+			</data>
+		</dict>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ARYPcM9FhZGx2QIyQsi/PHneCQp5Bi0S21Q5xzIGlNk=
+			</data>
+		</dict>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QUV8d3K05Ctwg9gA4139+bdJmKTLPa1J6BSw3JE7c3s=
+			</data>
+		</dict>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RJnfN8sMNirPlEEcL1RRRfJfGpjtdEDDrNwfTOK9Yy4=
+			</data>
+		</dict>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QUV8d3K05Ctwg9gA4139+bdJmKTLPa1J6BSw3JE7c3s=
+			</data>
+		</dict>
+		<key>Modules/TestFrameWork.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aBwfXVKeAIxqKcbvDSD/sJwxVj9BBNcjeUKkE0r6f3U=
 			</data>
 		</dict>
 		<key>Modules/TestFrameWork.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
