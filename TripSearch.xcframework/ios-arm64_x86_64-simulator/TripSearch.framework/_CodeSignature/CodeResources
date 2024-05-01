@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		I+S8GU9l4C715gKVf2PSsL8uE30=
+		DXfUXiN6/RE0rilQCP8dRL2YBTM=
 		</data>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oD5yH9F0PJgB4g112PMVCPNjPpc=
+		LdDUVfE9NfH+bSvolBF1xVmdXaI=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		E23vSjFs31nBqeBBVLkLWwYtAMc=
+		Pfa+BXuqfKbosKCRFJwdTZIcopM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -475,7 +475,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zpp10IrsL+k87Zfpv+7JEMj8OxNMXygwL8YvdxmMA/4=
+			vD2mYod5qHoqcN62qJbqcxtFZ7Y26X1o+OS7ug+MY0E=
 			</data>
 		</dict>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
@@ -713,7 +713,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			msWOykjx1N77EC91DZBRlvchcnk9JLm7HHXJYDFxiXY=
+			ScyZme9s4Mopez0K8hvW+xIIeeSEek5fAJ0OS85bqjc=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -748,7 +748,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ETAWk4HNAVd3w2M3gxrtoFSmDNTnqwGrcc8eMFsi9B0=
+			VljvrySNkxdKEzYVc6x7VFgEM2cI6EEM61SElEAFpqE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

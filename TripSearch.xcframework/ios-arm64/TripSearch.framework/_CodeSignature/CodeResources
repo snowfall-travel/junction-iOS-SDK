@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		o4IIaL9hFVQtQujU2/sOLUd/vKU=
+		I+S8GU9l4C715gKVf2PSsL8uE30=
 		</data>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>CabinClassView.nib</key>
 		<data>
-		Nf91uUdecAwU5Z/nQ1KVn87h+Gw=
+		GAFgWobJNk8KykM/tzAd07enN10=
 		</data>
 		<key>ChosenTripSummaryView.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>CountView.nib</key>
 		<data>
-		AxR9N86lzBI6qAFPJ1GwhlDcyDw=
+		WemuAJYI67n3rSCGjvDCX3h5eHY=
 		</data>
 		<key>CustomerDetails.storyboardc/13b-IA-pZA-view-mYg-bk-5RV.nib</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NLiJql5N5gYKZ4HaqZTbvwLBkAo=
+		aG4AJyb5BWnide1faZEAibsz4/U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -455,7 +455,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XRHZ7zPV98GuUnB29OP1Hu4yFRKFMvy+JavMQlwlT0Y=
+			Zpp10IrsL+k87Zfpv+7JEMj8OxNMXygwL8YvdxmMA/4=
 			</data>
 		</dict>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
@@ -483,7 +483,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qQfHusL0nrHpb+EsmltghBP3fsOwTX9d0x565GMBTpo=
+			PVdcB+PHRBLc5OKPhYLICqrI7nVGf2G4zC3AZs1nXIg=
 			</data>
 		</dict>
 		<key>ChosenTripSummaryView.nib</key>
@@ -504,7 +504,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c9BySCUIUuQrCmEZSmyCn0RLx1trY64vhDZUy0LRTKQ=
+			I/06C3FlL28MTqSgk4rAUMhxeFmlbtt/tI02JSvlaoM=
 			</data>
 		</dict>
 		<key>CustomerDetails.storyboardc/13b-IA-pZA-view-mYg-bk-5RV.nib</key>
@@ -693,7 +693,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rAmDyydgdK6KkKoTd5uzjOEwGGIzORG7y2woXKQIDPQ=
+			4WlqQoR+a3HCTn8s5Fuy0rvNMvxP/w3NgqWrWd0cfQA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
