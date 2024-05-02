@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "junction-iOS-SDK"
-  spec.version      = "1.0.18"
+  spec.version      = "1.0.19"
   spec.summary      = "FrameWork for life travel"
   spec.description  = "The best framework for the travel bookings"
 
@@ -19,8 +19,7 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "15.0"
     spec.ios.vendored_frameworks = 'TripSearch.xcframework'
     
-    spec.dependency 'Alamofire', '~> 2.6.1'
-    spec.dependency 'FSCalendar'
+    spec.dependency 'Alamofire'
     spec.dependency 'PhoneNumberKit'
     spec.dependency 'SkeletonView'
     spec.dependency 'FirebaseAnalytics'
@@ -35,7 +34,7 @@ Pod::Spec.new do |spec|
  
  # spec.source_files  = "JunctionSDK/**/*.{swift}"
   
- # spec.swift_version = "5.0"
+  spec.swift_version = "5.0"
 
 
 end
