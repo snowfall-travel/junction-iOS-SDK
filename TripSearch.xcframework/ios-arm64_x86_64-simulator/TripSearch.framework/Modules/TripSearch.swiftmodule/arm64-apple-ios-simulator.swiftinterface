@@ -9912,12 +9912,6 @@ public struct JourneyAllOf : Swift.Codable, Swift.Hashable {
   }
   public init(from decoder: any Swift.Decoder) throws
 }
-@available(iOS 11.0, tvOS 11.0, *)
-@available(watchOS, unavailable)
-extension UIKit.UIImage {
-  #warning("The "checkmark" image asset name resolves to a conflicting UIImage symbol "checkmark". Try renaming the asset.")
-  #warning("The "remove" image asset name resolves to a conflicting UIImage symbol "remove". Try renaming the asset.")
-}
 extension TripSearch.OfferAllOfAttributes.CodingKeys : Swift.Equatable {}
 extension TripSearch.OfferAllOfAttributes.CodingKeys : Swift.Hashable {}
 extension TripSearch.OfferAllOfAttributes.CodingKeys : Swift.RawRepresentable {}

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		5ZPvYRV+ct/3mPO4N3KSzqAKvNk=
+		WMuQducC9y76VcylRZn1JDcjCX4=
 		</data>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>LayoverTableViewCell.nib</key>
 		<data>
-		8hQSMd/5neSgZ2G39pRLk8tFq9Y=
+		SHIf5F9xPyxVsMA8lfE15/EdDMs=
 		</data>
 		<key>LegSegmentView.nib</key>
 		<data>
@@ -130,43 +130,43 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6hjGzSA4z0R71ZhvD5RssX+COZ4=
+		NOMxgqhhcYJ+L7XZwwiRwTpNG0U=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		P3BJi/L6s6JoSgGmzEZvCowkk3k=
+		XuLtt8F+UeHcRgYwvwWv3ZLfqDI=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		5L3Ay86Jf54y2FiaRb6TlB97Eas=
+		v5WoWa8ieuFvo1yf7vHXfW5Wj/w=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0BNCdFVK6/LxVZC8PSH6DsVg9Zw=
+		OGRx2t9UWH5H79WHLlvs5o3QOhw=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		oD5yH9F0PJgB4g112PMVCPNjPpc=
+		AMq4fBNA4/EmvkIVuFlQHBYbtsc=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6hjGzSA4z0R71ZhvD5RssX+COZ4=
+		NOMxgqhhcYJ+L7XZwwiRwTpNG0U=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		b79kG+q1Q2d4iTDarB4T84cJY7o=
+		lOd9JBuGr4yO0/Gq84iwTnZ/crM=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RADrzgaXAkKyHV1W+CjpcCFxHv8=
+		gpRDD7NBNCUJcLM7hXKDR7FflH8=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		ZLJFTe8NMH1McHNGl4FzzWRemag=
+		qAJp+/2ala7Of8X+32t7dd2gc60=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		E23vSjFs31nBqeBBVLkLWwYtAMc=
+		xyVl1YKUvFNEHLvvKrg+vR+SAFQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -475,7 +475,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9KM3kHo+bbN3y+BEK2PqfG3tWFlUk2Uf2d64VEI3I2o=
+			xQST6kG91pzYc+ppbOVt/Kp4Yfiuk9aDqn5I/3XvdSg=
 			</data>
 		</dict>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
@@ -671,7 +671,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0WPyrf9SobPGuikyz6HwhQ+FBZBMjMGWjBTXNTbYrSA=
+			3xI8FjB14uYgBoCnQLrCRJ5GwAfoqFV9MBO0Jt03C+g=
 			</data>
 		</dict>
 		<key>LegSegmentView.nib</key>
@@ -685,70 +685,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z0D4FdLTtv7Y32Jlz3R3H45Kp39R+hMpNZi20qxRrVM=
+			9zdbyP7ou8K80PWMBVPxXsKasjpqjupvaxH+F6GfXFU=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QFa4WkFo2vmlWyiO1JfxGPTm2/d91GwQZxMeYHxfFIE=
+			lZfUKz9VCqYNWAl5UOaSFCzCGxIRqtmbAH+Od7Q+lBU=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sBZ2FYK/mmMUg9ZiRsvFZMlH+wtW87p7mFbWvd1m/xk=
+			0jJWeWxCGbCVbEidIvIO+5X7B117V7BeCPuszboXK9g=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Wgu72+lUw439ApoKrcNMRsA6XeK1PJJ5C8fYjz69NIY=
+			VKrNDgDtoLfRE1Q5dl22pa0m411YYr8827/q3TscNmY=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			msWOykjx1N77EC91DZBRlvchcnk9JLm7HHXJYDFxiXY=
+			Qpk36xdUWUD2AJ7e6mlzSFEMPAs1tYldzPYacelTBkc=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z0D4FdLTtv7Y32Jlz3R3H45Kp39R+hMpNZi20qxRrVM=
+			9zdbyP7ou8K80PWMBVPxXsKasjpqjupvaxH+F6GfXFU=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eiL2WTEa2z7r7B4abn9bgQ7Yd8mq/KZgoTmeyIKbbtQ=
+			uLDddWO5SBN0Soztddj5Nf4yZtU8BFpgvZdLb/xeHX8=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			58lUhiJU9Q1JU/+aNESMYpBL8eWhaQWpAITT2UrpvSg=
+			6tE4iyEpvlA1jsW6w9EzQC7vvpDtn5VbigkdOBLuneo=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3CtUb2rJ+QhUGlRvYHhngpjiIqET49h3+1DMCHDCJFg=
+			hiVdH7eOlOYW2SkLuhoQmMTFi+V2l859Yju5TKjGd+Y=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ETAWk4HNAVd3w2M3gxrtoFSmDNTnqwGrcc8eMFsi9B0=
+			P5fmBFCmXZKGGUUNwM1+fow+EqtElyO3illwt8tJAwU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

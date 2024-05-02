@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "junction-iOS-SDK"
-  spec.version      = "1.0.20"
+  spec.version      = "1.0.21"
   spec.summary      = "FrameWork for life travel"
   spec.description  = "The best framework for the travel bookings"
 
@@ -26,6 +26,7 @@ Pod::Spec.new do |spec|
     spec.dependency 'SDWebImage'
     spec.dependency 'Stripe'
     spec.dependency 'StripePaymentSheet'
+    spec.dependency 'FSCalendar'
 
 
  # spec.source      = { :http => 'https://sevo-test.s3.eu-west-2.amazonaws.com/JunctionSDK.zip'}

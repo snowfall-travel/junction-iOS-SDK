@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		5ZPvYRV+ct/3mPO4N3KSzqAKvNk=
+		mzFh99490gvFJ6IfXfw55FL5g4s=
 		</data>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>LayoverTableViewCell.nib</key>
 		<data>
-		8hQSMd/5neSgZ2G39pRLk8tFq9Y=
+		SHIf5F9xPyxVsMA8lfE15/EdDMs=
 		</data>
 		<key>LegSegmentView.nib</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		X/ZmYKfPofvHmFbWukZJvG92PZM=
+		N3BI7bcgiqTHkRoEVlrq4HsdBPc=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		eiCG5DxhqZDMQn0nS8dxykgnwOA=
+		NQWNZCsXygR4NzQorJ6GR4os/I4=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -142,11 +142,11 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		BWd7tpaqJEbBGwgeLUEzRm78KA4=
+		cSDF7cYn9wQKosdEyuU1MrKThQc=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		NLiJql5N5gYKZ4HaqZTbvwLBkAo=
+		fRTOPiuUQQYSrtZLNZeV4Ywc45E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -455,7 +455,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9KM3kHo+bbN3y+BEK2PqfG3tWFlUk2Uf2d64VEI3I2o=
+			GxaDcZcei69hSHyUJBQBVC2gKLktRhSWFaxSzFo9Z1A=
 			</data>
 		</dict>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
@@ -651,7 +651,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0WPyrf9SobPGuikyz6HwhQ+FBZBMjMGWjBTXNTbYrSA=
+			3xI8FjB14uYgBoCnQLrCRJ5GwAfoqFV9MBO0Jt03C+g=
 			</data>
 		</dict>
 		<key>LegSegmentView.nib</key>
@@ -665,14 +665,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Cs9P4pJfbG0cxD5ONnleTkDfQzx9dq3Q5Gwy5OFaalc=
+			izoz7PykIlxBlxJH+qn0PMGOzmgvZ5Xs4E0cIsT5vLk=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U73yYhIfG6H3hosxyPQWMYbSAt6+CQYbtcgbaxcHiIQ=
+			RlSrxvDrPAdoX9ATKvmqHYJuCiosBiCDqlOUH3/FGIs=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -686,14 +686,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ISyOOFaxb+IyshYjXH8u9Qtty8E1ZBDfwn9lRjKGNM=
+			/2fASq+cU0x5YbHZG2KTQVZvDl/G82nCcfWCHG6HaN8=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rAmDyydgdK6KkKoTd5uzjOEwGGIzORG7y2woXKQIDPQ=
+			8hhqIw37ahWqlEFozrZ8lZv6UzrExd93dqgdVjtMZPI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
