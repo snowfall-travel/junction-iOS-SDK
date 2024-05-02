@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "junction-iOS-SDK"
-  spec.version      = "1.0.17"
+  spec.version      = "1.0.18"
   spec.summary      = "FrameWork for life travel"
   spec.description  = "The best framework for the travel bookings"
 
@@ -18,6 +18,16 @@ Pod::Spec.new do |spec|
 
   spec.platform     = :ios, "15.0"
     spec.ios.vendored_frameworks = 'TripSearch.xcframework'
+    
+    spec.dependency 'Alamofire', '~> 2.6.1'
+    spec.dependency 'FSCalendar'
+    spec.dependency 'PhoneNumberKit'
+    spec.dependency 'SkeletonView'
+    spec.dependency 'FirebaseAnalytics'
+    spec.dependency 'SDWebImage'
+    spec.dependency 'Stripe'
+    spec.dependency 'StripePaymentSheet'
+
 
  # spec.source      = { :http => 'https://sevo-test.s3.eu-west-2.amazonaws.com/JunctionSDK.zip'}
     spec.source     = { :git => 'https://github.com/snowfall-travel/junction-iOS-SDK.git', :tag => spec.version }
