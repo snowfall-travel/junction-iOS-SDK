@@ -36,6 +36,6 @@ Pod::Spec.new do |spec|
   spec.ios.frameworks    = 'Foundation', 'UIKit', 'QuartzCore'
   #spec.vendored_frameworks = 'JunctionSDK.xcframework'
   spec.swift_version = "5.0"
-    spec.ios.vendored_frameworks = 'JunctionTravelSDK.xcframework'
+    spec.ios.vendored_frameworks = 'TripSearch.xcframework'
 
 end
