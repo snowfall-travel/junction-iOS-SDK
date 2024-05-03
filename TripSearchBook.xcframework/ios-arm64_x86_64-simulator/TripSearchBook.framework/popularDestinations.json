@@ -1,0 +1,472 @@
+{
+  "data": [
+    {
+      "id": "56928ee7-43fb-5c46-909b-3649aa6f6b14",
+      "type": "places",
+      "attributes": {
+        "name": "Bali",
+        "latitude": -8.409518,
+        "longitude": 115.188916,
+        "countryCode": "ID",
+        "countryName": "Indonesia",
+        "timeZone": "Asia/Makassar",
+        "iataCode": "BLC",
+        "population": 4915000,
+        "mainCity": "Bali",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "7155407f-10d0-5800-9295-8c06ddc0d30f",
+      "type": "places",
+      "attributes": {
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "countryCode": "JP",
+        "countryName": "Japan",
+        "timeZone": "Asia/Tokyo",
+        "iataCode": "HND",
+        "population": 13929286,
+        "mainCity": "Tokyo",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "fa762db5-0440-5698-84f0-73c9c03984da",
+      "type": "places",
+      "attributes": {
+        "name": "Istanbul",
+        "latitude": 41.0082,
+        "longitude": 28.9784,
+        "countryCode": "TR",
+        "countryName": "Turkey",
+        "timeZone": "Europe/Istanbul",
+        "iataCode": "IST",
+        "population": 15848000,
+        "mainCity": "Istanbul",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "73a1cd1c-3390-5208-b44a-60db96dd0dcf",
+      "type": "places",
+      "attributes": {
+        "name": "Giza",
+        "latitude": 30.0131,
+        "longitude": 31.2089,
+        "countryCode": "EG",
+        "countryName": "Egypt",
+        "timeZone": "Africa/Cairo",
+        "iataCode": "SPX",
+        "population": 3438401,
+        "mainCity": "Giza",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "f92e7001-0aa4-569d-bc3a-158e13c51b84",
+      "type": "places",
+      "attributes": {
+        "name": "Phuket",
+        "latitude": 7.8804,
+        "longitude": 98.3923,
+        "countryCode": "TH",
+        "countryName": "Thailand",
+        "timeZone": "Asia/Bangkok",
+        "iataCode": "HKT",
+        "population": 418000,
+        "mainCity": "Phuket",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "010cbc37-77a9-51d9-822f-462f1c5da54e",
+      "type": "places",
+      "attributes": {
+        "name": "Lisbon",
+        "latitude": 38.7223,
+        "longitude": -9.1393,
+        "countryCode": "PT",
+        "countryName": "Portugal",
+        "timeZone": "Europe/Lisbon",
+        "iataCode": "LIS",
+        "population": 547631,
+        "mainCity": "Lisbon",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "4cc7f1cb-6c87-5907-9717-d01f507983c7",
+      "type": "places",
+      "attributes": {
+        "name": "Dubai",
+        "latitude": 25.2048,
+        "longitude": 55.2708,
+        "countryCode": "AE",
+        "countryName": "United Arab Emirates",
+        "timeZone": "Asia/Dubai",
+        "iataCode": "DXB",
+        "population": 3137000,
+        "mainCity": "Dubai",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "68bcfc5d-29e7-5924-975f-6edd3586e5ac",
+      "type": "places",
+      "attributes": {
+        "name": "Barcelona",
+        "latitude": 41.3851,
+        "longitude": 2.1734,
+        "countryCode": "ES",
+        "countryName": "Spain",
+        "timeZone": "Europe/Madrid",
+        "iataCode": "BCN",
+        "population": 1621537,
+        "mainCity": "Barcelona",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "3a17a52a-d95b-5194-b025-e4ad46fc7160",
+      "type": "places",
+      "attributes": {
+        "name": "Sydney",
+        "latitude": -33.8651,
+        "longitude": 151.2099,
+        "countryCode": "AU",
+        "countryName": "Australia",
+        "timeZone": "Australia/Sydney",
+        "iataCode": "SYD",
+        "population": 5312000,
+        "mainCity": "Sydney",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "ef55d24f-6fdf-5f7a-8578-15c587f23692",
+      "type": "places",
+      "attributes": {
+        "name": "Seoul",
+        "latitude": 37.5665,
+        "longitude": 126.978,
+        "countryCode": "KR",
+        "countryName": "South Korea",
+        "timeZone": "Asia/Seoul",
+        "iataCode": "ICN",
+        "population": 10349312,
+        "mainCity": "Seoul",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "3640dd0d-d7a1-578a-8eab-dfd3205162d8",
+      "type": "places",
+      "attributes": {
+        "name": "Edinburgh",
+        "latitude": 55.9533,
+        "longitude": -3.1883,
+        "countryCode": "GB",
+        "countryName": "Scotland",
+        "timeZone": "Europe/London",
+        "iataCode": "EDI",
+        "population": 536775,
+        "mainCity": "Edinburgh",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "94ca9f3b-c7ac-5ba6-bae5-a5d5821c9026",
+      "type": "places",
+      "attributes": {
+        "name": "Copenhagen",
+        "latitude": 55.6761,
+        "longitude": 12.5683,
+        "countryCode": "DK",
+        "countryName": "Denmark",
+        "timeZone": "Europe/Copenhagen",
+        "iataCode": "CPH",
+        "population": 1085000,
+        "mainCity": "Copenhagen",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "887aa643-b1c2-59f5-a9f4-849d8e2776fc",
+      "type": "places",
+      "attributes": {
+        "name": "California",
+        "latitude": 36.7783,
+        "longitude": -119.4179,
+        "countryCode": "US",
+        "countryName": "United States",
+        "timeZone": "America/Los_Angeles",
+        "iataCode": "LAX",
+        "population": 39538223,
+        "mainCity": "California",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "8522bd51-a447-5de4-9008-41b6c8ca9280",
+      "type": "places",
+      "attributes": {
+        "name": "Lima",
+        "latitude": -12.0464,
+        "longitude": -77.0428,
+        "countryCode": "PE",
+        "countryName": "Peru",
+        "timeZone": "America/Lima",
+        "iataCode": "LIM",
+        "population": 10750000,
+        "mainCity": "Lima",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "20067eac-87be-59a1-809f-7668a4b6f545",
+      "type": "places",
+      "attributes": {
+        "name": "Marseille",
+        "latitude": 43.2965,
+        "longitude": 5.3698,
+        "countryCode": "FR",
+        "countryName": "France",
+        "timeZone": "Europe/Paris",
+        "iataCode": "MRS",
+        "population": 870018,
+        "mainCity": "Marseille",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "10ef1215-40ad-5953-bec3-ed25d3c3e707",
+      "type": "places",
+      "attributes": {
+        "name": "Athens",
+        "latitude": 37.9838,
+        "longitude": 23.7275,
+        "countryCode": "GR",
+        "countryName": "Greece",
+        "timeZone": "Europe/Athens",
+        "iataCode": "ATH",
+        "population": 664046,
+        "mainCity": "Athens",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "74ef8eab-68ff-5007-9603-b3a679d8d2f3",
+      "type": "places",
+      "attributes": {
+        "name": "Paris",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "countryCode": "FR",
+        "countryName": "France",
+        "timeZone": "Europe/Paris",
+        "iataCode": "CDG",
+        "population": 2140526,
+        "mainCity": "Paris",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    },
+    {
+      "id": "ba144de4-2962-5c76-b67c-513c872ae2f8",
+      "type": "places",
+      "attributes": {
+        "name": "Vancouver",
+        "latitude": 49.2827,
+        "longitude": -123.1207,
+        "countryCode": "CA",
+        "countryName": "Canada",
+        "timeZone": "America/Vancouver",
+        "iataCode": "YVR",
+        "population": 662248,
+        "mainCity": "Vancouver",
+        "image": ""
+      },
+      "relationships": {
+            "types": {
+                "data": [
+                    {
+                        "id": "city",
+                        "type": "place-types"
+                    }
+                ]
+            }
+      }
+    }
+  ]
+}

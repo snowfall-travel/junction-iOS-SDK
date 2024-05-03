@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "junction-iOS-SDK"
-  spec.version      = "1.0.33"
+  spec.version      = "1.0.34"
   spec.summary      = "SDK for travel!!!"
 
   spec.description  = "With Junction SDK, enable trip booking in every app "
@@ -36,6 +36,6 @@ Pod::Spec.new do |spec|
   spec.ios.frameworks    = 'Foundation', 'UIKit', 'QuartzCore'
   #spec.vendored_frameworks = 'JunctionSDK.xcframework'
   spec.swift_version = "5.0"
-    spec.ios.vendored_frameworks = 'TripSearch.xcframework'
+    spec.ios.vendored_frameworks = 'TripSearchBook.xcframework'
 
 end
