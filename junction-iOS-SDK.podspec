@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |spec|
 
-  spec.name         = "JunctionTravelSDK"
-  spec.version      = "1.0.30"
+  spec.name         = "junction-iOS-SDK"
+  spec.version      = "1.0.31"
   spec.summary      = "SDK for travel!!!"
 
   spec.description  = "With Junction SDK, enable trip booking in every app "
