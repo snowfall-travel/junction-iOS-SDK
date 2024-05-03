@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		m0Y1BVMZsOshtvXsfsh92/dprRs=
+		liP68VZT6NXPmFkbXIoNpomivnQ=
 		</data>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Booking.storyboardc/QhO-fm-ayP-view-ey1-Bm-6zt.nib</key>
 		<data>
-		pt5riwWFNHD5JkjAxsv9QAusC8o=
+		ZNFx3jc3Gao6yDx3/sIQUeixwf8=
 		</data>
 		<key>CabinClassView.nib</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>CustomerDetails.storyboardc/8Fy-Uv-U7R-view-B5e-Uh-XH8.nib</key>
 		<data>
-		NCG8S0rkkbJcb1Ph1td5T9+p4iI=
+		ZKn1gXc99LDyWId9v1V3TJLTDxU=
 		</data>
 		<key>CustomerDetails.storyboardc/AnyItemPickerViewController.nib</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>CustomerDetails.storyboardc/LFg-fI-t7d-view-UrC-G1-ZlK.nib</key>
 		<data>
-		2FBiMRIF3igzaNfoTrVDWmCkMQg=
+		rQaoFhZuwwibjerhaHpANRmF/eA=
 		</data>
 		<key>CustomerDetails.storyboardc/TermsConditionsViewController.nib</key>
 		<data>
@@ -78,19 +78,19 @@
 		</data>
 		<key>CustomerDetails.storyboardc/eMP-1T-nKb-view-Ifi-1i-hPd.nib</key>
 		<data>
-		6y1q4duHC7NkHSgQm6k2Q0KD340=
+		ijtDWYZ9PvQzwFvgSMG7PRnObT8=
 		</data>
 		<key>CustomerDetails.storyboardc/l7F-hu-oBV-view-HJE-AC-QZg.nib</key>
 		<data>
-		EAkn8PfAk8gtcdX3IJoEybsQDXg=
+		7bSVVE+SIGpKwhDRpE6bztytbM8=
 		</data>
 		<key>CustomerDetails.storyboardc/ulf-JI-XKd-view-RX2-cY-LkV.nib</key>
 		<data>
-		xA3xE79O697tAQYJ6kgXhFJBfOw=
+		KllhI7ipfqTrVoYD5IqTvVqQwto=
 		</data>
 		<key>FareTaxBottomSheetView.nib</key>
 		<data>
-		h5Bp1MCDkkXwVaA3e6lMhlwlNqk=
+		NvBizhr/Gxlw+1G7LQFh1QMS1UM=
 		</data>
 		<key>Figtree-Bold.ttf</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Headers/TripSearch-Swift.h</key>
 		<data>
-		hbiqmsoRgBSIH8zams3/U2VxHzE=
+		nkS+a8WeW3QWkhC01xaosbZNLlE=
 		</data>
 		<key>Headers/TripSearch.h</key>
 		<data>
@@ -114,11 +114,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		h6Hh0LU4xyEBRDfJVmcdBcH3XUE=
+		M6rMo//3H0rqdWHpykBgvLS3oTA=
 		</data>
 		<key>JourneyDetailsTableViewCell.nib</key>
 		<data>
-		RE5hv+418j9R9wBwrMnsl7MRoCM=
+		g/Xkgw4/BWs1dYFftkwm7q7GPwQ=
 		</data>
 		<key>LayoverTableViewCell.nib</key>
 		<data>
@@ -130,23 +130,23 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		EnT/to2yCx26thB1bfoyx5tu+4Q=
+		N3BI7bcgiqTHkRoEVlrq4HsdBPc=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		KcbwcwpF6TBiitzMve0BzSvI9cs=
+		NQWNZCsXygR4NzQorJ6GR4os/I4=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Pko7RNRVSgHp8jy3jizQLEdc9y0=
+		fPOof1LdDAHwT+n5DY/1LJ5XhZ4=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		8JkxdCoHFLiZzh0kkmgva1AI0s4=
+		cSDF7cYn9wQKosdEyuU1MrKThQc=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		SmYUWQoRWnC6SA7aIhQNnH5g1tE=
+		fRTOPiuUQQYSrtZLNZeV4Ywc45E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -258,19 +258,19 @@
 		</data>
 		<key>SearchResults.storyboardc/12z-ie-Ln0-view-ohf-dB-tvm.nib</key>
 		<data>
-		cZ5LVkONh4sZ89rFLzVEhTP6woM=
+		r2guh3vZjptYqvNPFJNMqLB98d4=
 		</data>
 		<key>SearchResults.storyboardc/566-2l-7LU-view-CS4-Sc-35R.nib</key>
 		<data>
-		GF3aCEAyfAFO+UuCkRdbtGzRSZQ=
+		HBExXi822jb+GhxJbGXmpXjWpN4=
 		</data>
 		<key>SearchResults.storyboardc/5VZ-jF-co4-view-gXR-w5-tWy.nib</key>
 		<data>
-		2lpsnkINcv0zhfYLWQzGucvhOPw=
+		A+g06mx4LQGv5G8+UrYMtbMpF9o=
 		</data>
 		<key>SearchResults.storyboardc/97i-Yq-rC6-view-8yt-YC-MV1.nib</key>
 		<data>
-		E5r+sBg4KOi0IqUL8yZWer5G4as=
+		WxjFXqoK1Lz8YqxoYEpuETk+2i8=
 		</data>
 		<key>SearchResults.storyboardc/CabinClassViewController.nib</key>
 		<data>
@@ -310,7 +310,7 @@
 		</data>
 		<key>SearchResults.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		R10PXXrL8+VJuHNVgWHscdS7h8E=
+		TccZP42iP9+wOQXbSN72Zd80/1w=
 		</data>
 		<key>SearchResults.storyboardc/fvL-E5-1i4-view-Anr-uZ-DMU.nib</key>
 		<data>
@@ -318,11 +318,11 @@
 		</data>
 		<key>SearchResults.storyboardc/iiP-Ug-vqT-view-1AE-kr-fPN.nib</key>
 		<data>
-		sS4yAkqc+qxOFM3cQ8kPZCsuN2k=
+		8r6cTcyO8af0/Pwh8HJGRhesEbs=
 		</data>
 		<key>SearchResults.storyboardc/xHI-qQ-ZJ5-view-Kfw-yL-pl9.nib</key>
 		<data>
-		Fn05buScAUwqsdRHFTS7AxLeehk=
+		gbnw0UZuO7BDOIbG+6q4ESRTBvk=
 		</data>
 		<key>SingleJourneyDetailsView.nib</key>
 		<data>
@@ -334,7 +334,7 @@
 		</data>
 		<key>SummaryTableViewCell.nib</key>
 		<data>
-		wX9vrELOY8wXEnxNFgyqZipz6k4=
+		w5ZXHDPp/Qetsc2Sr+TLlUQTNDs=
 		</data>
 		<key>TravelRestrictionTableViewCell.nib</key>
 		<data>
@@ -398,7 +398,7 @@
 		</data>
 		<key>TripSearch.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		4ai0J3m5Rmqd5SOGfWHtUXLhdoQ=
+		NujWenjtEb617rVPmWIiB8b6uE8=
 		</data>
 		<key>TripSearch.storyboardc/fAh-QQ-K6M-view-fin-wd-cig.nib</key>
 		<data>
@@ -414,7 +414,7 @@
 		</data>
 		<key>TripSearchTableViewCell.nib</key>
 		<data>
-		NhiNEK4Nq323Ne+2BtHcNqapFpE=
+		aalRReYR4Ep/ZE0kwytBXaupWk8=
 		</data>
 		<key>cities.json</key>
 		<data>
@@ -455,7 +455,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HtRkmbLrtPi/xwLA7mrf1bcviYmmejesDdZcpOiHaCY=
+			VhMqf1ZmrRkKIW4awyVr3rsawby2vQ0LcZSn3zJ46kg=
 			</data>
 		</dict>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
@@ -476,7 +476,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EsOEh3kgPP7RxVLAADrDV4Yg9t4qz0g0AJQO62MRnYE=
+			aALVPyFq1UeXg/XlsC7eUzf3pvSKSocIWTMh6OIEDyE=
 			</data>
 		</dict>
 		<key>CabinClassView.nib</key>
@@ -518,7 +518,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YmDcBlD7syFUhW5//hrgIbywMG58+oAPqSdfjRE6KQg=
+			YZH96lfpHDEmk9/2Ua+bBjkiVAYxxd6VUBQn0SmE/Ug=
 			</data>
 		</dict>
 		<key>CustomerDetails.storyboardc/AnyItemPickerViewController.nib</key>
@@ -567,7 +567,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			++zHyuYv6mVuKFK2a/1JA+m/VcJNW0b5fN2g8e+kcN0=
+			JdP7nqHqSr+HmsBNi5FlDtoQw9ezqmTYKdWzvPCjgF0=
 			</data>
 		</dict>
 		<key>CustomerDetails.storyboardc/TermsConditionsViewController.nib</key>
@@ -581,28 +581,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HLtX3rJwGuOLwiIAO3tYQIptCVpRKUxaSZxX7V/OC18=
+			flFyphafz7QFyTSPo3ta1lPFYJBQUhZahMpkvYXQe7c=
 			</data>
 		</dict>
 		<key>CustomerDetails.storyboardc/l7F-hu-oBV-view-HJE-AC-QZg.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+A4AllUxcJBcrds9el9w3KdltbZg0dS8YaD/K1y3YWU=
+			d87kptOmic6exro7qeEBDerBm6EL0NhJldA3Ds0V4yY=
 			</data>
 		</dict>
 		<key>CustomerDetails.storyboardc/ulf-JI-XKd-view-RX2-cY-LkV.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/3EF4+DmnLhd4ipxg5OiWKO0ak+lIgSmMS2dzU2RLwk=
+			Oq3fXj0xmGFS9tqkZ94jjABaalST3JjWx8uBg3lDZtw=
 			</data>
 		</dict>
 		<key>FareTaxBottomSheetView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7Cd4hn3vH+OHM+YEyxiQxaxYBs57+libc8njsxg0yGw=
+			vyC8h6sZ9JG/B3DLMJOAbg7tmCV3x0TxPVLF5r3Gv1s=
 			</data>
 		</dict>
 		<key>Figtree-Bold.ttf</key>
@@ -630,7 +630,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9NOsjlXXifunBW5UEu6Vi3zsFv1JqXfi6ojMEBH4F2w=
+			mdeCCtsZaPDwUgiJPpPolCZsEzOrRdCw/0Le0wbnW98=
 			</data>
 		</dict>
 		<key>Headers/TripSearch.h</key>
@@ -644,7 +644,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YaAfDQw7oXwJDlHZJ0clgh8TRgr4+QUSJIY03FrYK8M=
+			oXOyo+AuVNH7J7l/iR9ER3T2ih9HnTPaFrENaet/1wY=
 			</data>
 		</dict>
 		<key>LayoverTableViewCell.nib</key>
@@ -665,35 +665,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			24aPEVmwkzXyUvGNCBefMkvLlnYvDd49XgFBeFEFiX4=
+			izoz7PykIlxBlxJH+qn0PMGOzmgvZ5Xs4E0cIsT5vLk=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sc9uyI7wvTNYhdS5jknx6vFp1QC9U2iPEe1Fhv/TMh4=
+			RlSrxvDrPAdoX9ATKvmqHYJuCiosBiCDqlOUH3/FGIs=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a4Yykz8j3vnUfe5jmjqfNUOrBXshnjr2mzfS2qlmXq0=
+			+tFJkjKrCzqlaa+IkBRAQFg51bCBHRoQ0SombJeEEY4=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oGPXLgbXVUL2OCX7yi9V5NmOaKwtVsJtdc/f6P3BAao=
+			/2fASq+cU0x5YbHZG2KTQVZvDl/G82nCcfWCHG6HaN8=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SpJZLSRQA1aMksUYEADbpQqn67HzGNHz+J5CjTCod+U=
+			8hhqIw37ahWqlEFozrZ8lZv6UzrExd93dqgdVjtMZPI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -889,28 +889,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VrstWAUwbsrE+6NPWT5aekvBq2xw+N73PT/RWZ5KSyk=
+			qv/dvnR4L0JO2ZbhVeafpyYLXXBvFGzEvika6M7sfQQ=
 			</data>
 		</dict>
 		<key>SearchResults.storyboardc/566-2l-7LU-view-CS4-Sc-35R.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TiMVZ7V0/Etdc5lVh0IqU2Pqm7hg3b46X6Qoi0GUEY4=
+			Ee+wsX4YQMrqtBqUVp0Gwf+1fJg6MQpEqVXyrHJ2JOE=
 			</data>
 		</dict>
 		<key>SearchResults.storyboardc/5VZ-jF-co4-view-gXR-w5-tWy.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fe41vpP4pidNU1V1weGbNk7Owxhwe/2gCKXF+GP4CIw=
+			q6Tm2CmQ0NFn15df4TDaQZTcC0zM+DCXkpOpFfyg1n0=
 			</data>
 		</dict>
 		<key>SearchResults.storyboardc/97i-Yq-rC6-view-8yt-YC-MV1.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AUHlh3NrgUiyTGvRyRg/7LEcRHfechu0mMTc8vUGIs4=
+			466LU3+TWydv7BgBdYrSKpEqFH/3/pTROLEWoERcKlE=
 			</data>
 		</dict>
 		<key>SearchResults.storyboardc/CabinClassViewController.nib</key>
@@ -980,7 +980,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			izsRx4Rewm+jjpWCxvds8RKONEsoKTh0OQ7uPcrzL3s=
+			4aq3bnRbFSxiR6LQklT1dEJ1UwKAjOJe7scXsI3D+9Y=
 			</data>
 		</dict>
 		<key>SearchResults.storyboardc/fvL-E5-1i4-view-Anr-uZ-DMU.nib</key>
@@ -994,14 +994,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			StWwk5G2dboEEE53MGgjZFmrgSyPlhZ3bXl2P9sTjM0=
+			XWi18ttjzme+DaZisvJ1GYqJYY4UG1SNP70a+cCGWTo=
 			</data>
 		</dict>
 		<key>SearchResults.storyboardc/xHI-qQ-ZJ5-view-Kfw-yL-pl9.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zhKU69UxvgA/RsHydml18h+cqfg6Mm9l4JIHWT0h7t0=
+			8L0GKf9k5wePdBvFnlLJO7GkRm4R5BQGFs+ZVBBR3oY=
 			</data>
 		</dict>
 		<key>SingleJourneyDetailsView.nib</key>
@@ -1022,7 +1022,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rbIuIK5ezytgMrx0r1tBTNFWbHa98WTGKgp1hoiyqgI=
+			HgCAhNpl8+JciYk7fKFc7Pg/Jrl5tP91ncpVZm6o5Yo=
 			</data>
 		</dict>
 		<key>TravelRestrictionTableViewCell.nib</key>
@@ -1134,7 +1134,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jVrSsEYmqQcRz89Qhi54h66CqknJvkIihywdzUWVA+c=
+			5d/wk1qIEUv6nIX0NaCZboJaQ81ytS94ynZFYtaoG5k=
 			</data>
 		</dict>
 		<key>TripSearch.storyboardc/fAh-QQ-K6M-view-fin-wd-cig.nib</key>
@@ -1162,7 +1162,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			J7WonywtoZiCK0w2tbM2psThwt2KJ+3UAnTXaPfAw9M=
+			5FWimJt9LqQf4WY7YAWyrgZMqw2GbyS9v9Z4yAwpNUg=
 			</data>
 		</dict>
 		<key>cities.json</key>
