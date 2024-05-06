@@ -1,4 +1,0 @@
-framework module TripSearchBook {
-  header "TripSearchBook-Swift.h"
-  requires objc
-}
