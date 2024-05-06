@@ -22,7 +22,7 @@ Pod::Spec.new do |spec|
 
   spec.platform     = :ios, "14.0"
   spec.source     = { :git => 'https://github.com/snowfall-travel/junction-iOS-SDK.git', :tag => spec.version }
-
+  spec.static_framework = true
   spec.dependency 'Alamofire'
   spec.dependency 'PhoneNumberKit'
   spec.dependency 'SkeletonView'
