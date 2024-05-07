@@ -277,6 +277,10 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
+@import CoreFoundation;
+@import Foundation;
+@import ObjectiveC;
+@import UIKit;
 #endif
 
 #endif
@@ -297,6 +301,167 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 #if defined(__OBJC__)
+@class NSCoder;
+
+IB_DESIGNABLE
+SWIFT_CLASS("_TtC10TripSearch11AlphaSlider") SWIFT_AVAILABILITY(ios,introduced=10.0)
+@interface AlphaSlider : UISlider
+- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+- (void)tintColorDidChange;
+- (void)drawRect:(CGRect)rect;
+@end
+
+
+
+
+SWIFT_CLASS("_TtC10TripSearch10DashedView")
+@interface DashedView : UIView
+@property (nonatomic, readonly) CGSize intrinsicContentSize;
+- (void)layoutSubviews;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+
+
+
+
+
+IB_DESIGNABLE
+SWIFT_CLASS("_TtC10TripSearch18IBDesignableButton")
+@interface IBDesignableButton : UIButton
+@property (nonatomic) IBInspectable CGFloat cornerRadius;
+@property (nonatomic) IBInspectable BOOL masksToBounds;
+- (void)awakeFromNib;
+@property (nonatomic, getter=isEnabled) BOOL enabled;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+IB_DESIGNABLE
+SWIFT_CLASS("_TtC10TripSearch16IBDesignableView")
+@interface IBDesignableView : UIView
+@property (nonatomic) IBInspectable CGFloat cornerRadius;
+@property (nonatomic) IBInspectable BOOL masksToBounds;
+- (void)awakeFromNib;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+
+
+
+@class NSString;
+@class NSDate;
+
+SWIFT_CLASS("_TtC10TripSearch24OpenISO8601DateFormatter")
+@interface OpenISO8601DateFormatter : NSDateFormatter
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder SWIFT_UNAVAILABLE;
+- (NSDate * _Nullable)dateFromString:(NSString * _Nonnull)string SWIFT_WARN_UNUSED_RESULT;
+@end
+
+@class UINavigationController;
+@class UIViewController;
+
+SWIFT_CLASS("_TtC10TripSearch6Router")
+@interface Router : NSObject <UINavigationControllerDelegate>
+- (void)navigationController:(UINavigationController * _Nonnull)navigationController didShowViewController:(UIViewController * _Nonnull)viewController animated:(BOOL)animated;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+
+IB_DESIGNABLE
+SWIFT_CLASS("_TtC10TripSearch24SecondIBDesignableButton")
+@interface SecondIBDesignableButton : UIButton
+@property (nonatomic) IBInspectable CGFloat cornerRadius;
+@property (nonatomic) IBInspectable BOOL masksToBounds;
+- (void)awakeFromNib;
+@property (nonatomic, getter=isEnabled) BOOL enabled;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UIColor;
+
+IB_DESIGNABLE
+SWIFT_CLASS("_TtC10TripSearch14SegmentControl")
+@interface SegmentControl : UIControl
+@property (nonatomic) IBInspectable CGFloat borderWidth;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull borderColor;
+@property (nonatomic) IBInspectable CGFloat cornerRadius;
+@property (nonatomic, copy) IBInspectable NSString * _Nonnull buttonTitles;
+@property (nonatomic, copy) IBInspectable NSString * _Nonnull buttonImages;
+@property (nonatomic, copy) IBInspectable NSString * _Nonnull buttonImagesSelected;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull textColor;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull selectorTextColor;
+@property (nonatomic, strong) IBInspectable UIColor * _Nonnull selectorColor;
+@property (nonatomic) IBInspectable BOOL isRounded;
+@property (nonatomic) IBInspectable CGFloat bottomBarHeight;
+- (void)awakeFromNib;
+- (void)layoutSubviews;
+- (void)setViewLayout;
+- (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@interface UIViewController (SWIFT_EXTENSION(TripSearch))
+- (void)awakeFromNib;
+@end
+
+
+
+
+
+
+
+
+
 #endif
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
