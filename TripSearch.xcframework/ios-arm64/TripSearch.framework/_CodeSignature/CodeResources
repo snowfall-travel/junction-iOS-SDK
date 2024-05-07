@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BBAvljYFvGzFbt81OWgrc8v89sg=
+		hMr8HZgHSD15wqL9+i3Dt9Eu344=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		VrDJSqaeWdcdvV8EixJi8cGpmF4=
+		tg4+7idhDyQOA5lJAP3bC7pwq6g=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		9sShe1ITQ91DvRMlzDVgbK4Oy40=
+		RKfgd+CelQg+jRSvI5iusAdWhys=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		VrDJSqaeWdcdvV8EixJi8cGpmF4=
+		tg4+7idhDyQOA5lJAP3bC7pwq6g=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		IQi5AjrR4BN41IHfVrkskDgCdGM=
+		le3G+jRTWiEDzbTsaUd6tptFqrs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,28 +68,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iQQ4h2KMb+tmKIutHPbRpWk7l+4fhT4hgf1aYRceB+8=
+			tyq5xmhRa1L3JZbzqunQhMxUoz4g8wc/KjKIgqISyYQ=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+iYK4DhfiteOETLHhUByK0njghPYAkkv8Sc2vEKc8o4=
+			8Dntyc+GnqAJ81BqxOxuekLb8FMXCUSlKhdYfKZutfI=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iQQ4h2KMb+tmKIutHPbRpWk7l+4fhT4hgf1aYRceB+8=
+			tyq5xmhRa1L3JZbzqunQhMxUoz4g8wc/KjKIgqISyYQ=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mAys/UUOfeZLnOddKu1AghEtVnrGtjeA0ljS2HVUK3g=
+			wFyeE9pEm5pJ8v+NJleJV7gb5asthv/W+AFjBuJ1KgQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

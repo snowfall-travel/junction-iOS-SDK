@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		/iIxmLIYQEHMOrdWkFY7YNimREo=
+		m2F1Ldh+l7dSIAL2opoyqSuxLZ8=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		DaCQ0allHMP/HELRwixwjaC2BBw=
+		qzx4+8tSNzqsEHaWDprStsaF5PI=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		OlzlO3zK6YQX0+q1IlomMuqeoX8=
+		TMsDD1QoGn/lCstjun9NLqkFpiI=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		DaCQ0allHMP/HELRwixwjaC2BBw=
+		qzx4+8tSNzqsEHaWDprStsaF5PI=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		setml92jQOe4WIoCcI1BfEKQSc4=
+		aXJP1HD5SIB7xIHc16K5tF+l6CQ=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		bUZxhygj/LC1HFnLypV30KyYIC4=
+		l2uYWPaYuRte5g75+cNFK+H0eH0=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		cDZS6Bvg1Is15QsrCzWvQDftkGA=
+		aHZn9R9Kwz0+s+r0QO1D0U8cCsw=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bUZxhygj/LC1HFnLypV30KyYIC4=
+		l2uYWPaYuRte5g75+cNFK+H0eH0=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Q0B0ROHLba4EUgC7AbQgdVZtDvM=
+		LUc5x+t2+upEWuUZDycziuyPEW8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -88,28 +88,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RDAfAyiv51NIGegVXxSwcOuzCab5h0P5ytuIwp8z4y8=
+			2ygAPcZv5xy8wZglamovrbL4mc9aNmzPHFbyvgbSss8=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hN+X0MBeQAsjc3G30jkzNeoAXNcKn7dLI91+6tJ7fLk=
+			IAPYCvQyKNI7DagzKR5WSBPWthkYy/Cd7AG3KvV61j4=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RDAfAyiv51NIGegVXxSwcOuzCab5h0P5ytuIwp8z4y8=
+			2ygAPcZv5xy8wZglamovrbL4mc9aNmzPHFbyvgbSss8=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3QZBot5LdfAoEruhXiaIMYN24NxX9eFLdSI7lD/nTZM=
+			n5h6e9KqUDWmqN6so968tM66yUCJwBoF8ZmqgMy+E1s=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -123,28 +123,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mK/5CUtMbBj9J8c5aucHb1cluw9awg9826Jks2R+HYU=
+			w8Yn3959sp0t/tdfc6t3g5uUuEQ3Fq5R5bOgtNw2ukA=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BhYXu/xQrtH7qgjs+i0i963wLA+RYSJ/U7WSJox74VY=
+			AXioqQQwFHpxCzwdCJAkVbZ88m1FnohuFHv06Lj/jus=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mK/5CUtMbBj9J8c5aucHb1cluw9awg9826Jks2R+HYU=
+			w8Yn3959sp0t/tdfc6t3g5uUuEQ3Fq5R5bOgtNw2ukA=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NT2YP743tcxkj4suQtCJesbyxGkSFL1l7zmAQbX+ylY=
+			oTYGTW0GvhU6mgUAYPFp/Up5+UkWxDgck/Uy7pB+XJ4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
