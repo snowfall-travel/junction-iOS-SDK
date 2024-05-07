@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "junction-iOS-SDK"
-  spec.version      = "1.0.42"
+  spec.version      = "1.0.43"
   spec.summary      = "SDK for travel!!!"
 
   spec.description  = "With Junction SDK, enable trip booking in every app "
@@ -30,6 +30,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'SDWebImage'
   spec.dependency 'Stripe'
   spec.dependency 'StripePaymentSheet'
+  spec.dependency 'FSCalendar'
 
 
 

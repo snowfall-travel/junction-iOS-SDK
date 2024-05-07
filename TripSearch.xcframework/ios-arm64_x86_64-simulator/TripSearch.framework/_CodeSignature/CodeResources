@@ -130,43 +130,43 @@
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		NOMxgqhhcYJ+L7XZwwiRwTpNG0U=
+		DBCOVmcwyoRc61p9rKevORbZ2aU=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		XuLtt8F+UeHcRgYwvwWv3ZLfqDI=
+		FQaRy9qhXHqJ0zRXxWBZwmTHFtQ=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		v5WoWa8ieuFvo1yf7vHXfW5Wj/w=
+		tlI7aHyX9ipUSqdPS+bJQwIe+YU=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		OGRx2t9UWH5H79WHLlvs5o3QOhw=
+		TrILrUL7aFMjr+P6c5M6wD+KQQo=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AMq4fBNA4/EmvkIVuFlQHBYbtsc=
+		keJPbzOcPpwfkGcaiErU1fiR3lo=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		NOMxgqhhcYJ+L7XZwwiRwTpNG0U=
+		DBCOVmcwyoRc61p9rKevORbZ2aU=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		lOd9JBuGr4yO0/Gq84iwTnZ/crM=
+		Q2MpGdvk5kGb6iYbsnRNhyTMHUY=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		gpRDD7NBNCUJcLM7hXKDR7FflH8=
+		FiQUG8298sX+Tyj1A1p+zGGjVmg=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qAJp+/2ala7Of8X+32t7dd2gc60=
+		xiGqX5L8SjwOK3brchvsE10LjEQ=
 		</data>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xyVl1YKUvFNEHLvvKrg+vR+SAFQ=
+		9VlnPpZDzmgB9UTrnzjDkjWdf0Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -685,70 +685,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9zdbyP7ou8K80PWMBVPxXsKasjpqjupvaxH+F6GfXFU=
+			3CyaI+XvPcaMMbrQfMplMDb1gIAIaFW4O5tIBpwtvI8=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lZfUKz9VCqYNWAl5UOaSFCzCGxIRqtmbAH+Od7Q+lBU=
+			guEySSaHzq76XYRg7G4ZpfVB8YroF5aCYGOyMSI/gDg=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0jJWeWxCGbCVbEidIvIO+5X7B117V7BeCPuszboXK9g=
+			YcBV5cbwl71itAkDL50kULNdbxkjwqzlIKVwKgSU2yw=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VKrNDgDtoLfRE1Q5dl22pa0m411YYr8827/q3TscNmY=
+			q6qFKcU9+mcprgQ4KLbkQwNDOXYEYCIoKvgo0SdxWVY=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qpk36xdUWUD2AJ7e6mlzSFEMPAs1tYldzPYacelTBkc=
+			2Bw+Vws8303LXL8/Xx+HSxfNyQhBfBj+3Abi9iYNX+8=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9zdbyP7ou8K80PWMBVPxXsKasjpqjupvaxH+F6GfXFU=
+			3CyaI+XvPcaMMbrQfMplMDb1gIAIaFW4O5tIBpwtvI8=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uLDddWO5SBN0Soztddj5Nf4yZtU8BFpgvZdLb/xeHX8=
+			k+wJXTlFOVhEJYgimYs0QXHIdUCMmUYO1A+7wa9PlVE=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6tE4iyEpvlA1jsW6w9EzQC7vvpDtn5VbigkdOBLuneo=
+			A7WltLGyQ2u9iIRYuU6Kk31ZHTrFLgzQ3U11mz5hSdo=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hiVdH7eOlOYW2SkLuhoQmMTFi+V2l859Yju5TKjGd+Y=
+			fv9ntYrCWyPC3LcndD8jWO7g4a2EskDq6Fo48lQMMdc=
 			</data>
 		</dict>
 		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P5fmBFCmXZKGGUUNwM1+fow+EqtElyO3illwt8tJAwU=
+			7785cZ7KcI8uw1M5Jcv28tLNXZHfAIQRRF1pOXVLFhc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
