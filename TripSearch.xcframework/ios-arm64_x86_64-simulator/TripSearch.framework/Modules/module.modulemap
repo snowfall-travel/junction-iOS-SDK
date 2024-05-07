@@ -4,3 +4,8 @@ framework module TripSearch {
 
   module * { export * }
 }
+
+module TripSearch.Swift {
+  header "TripSearch-Swift.h"
+  requires objc
+}

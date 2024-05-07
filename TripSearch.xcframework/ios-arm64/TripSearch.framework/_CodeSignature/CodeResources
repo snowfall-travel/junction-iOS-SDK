@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/TripSearch-Swift.h</key>
+		<data>
+		FjGlfOzTbud5pLF4OH/PZM/rkww=
+		</data>
 		<key>Headers/TripSearch.h</key>
 		<data>
 		XRrPYc2sWlsFn2dWbK37CjiuS1o=
@@ -12,13 +16,40 @@
 		<data>
 		BBAvljYFvGzFbt81OWgrc8v89sg=
 		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		HeSEjs+VT94qzq0NI4k1pWf30i4=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		VrDJSqaeWdcdvV8EixJi8cGpmF4=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		9sShe1ITQ91DvRMlzDVgbK4Oy40=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		VrDJSqaeWdcdvV8EixJi8cGpmF4=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		IQi5AjrR4BN41IHfVrkskDgCdGM=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		/cudBlf7u6oDtihrNwTFG6csvqI=
+		m+o9bPXJMZF6P+5WF08fslee614=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/TripSearch-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4k2sTzQcZ8Cuo8YfAGtb//W0UxsWooSNIkDrCfm96CY=
+			</data>
+		</dict>
 		<key>Headers/TripSearch.h</key>
 		<dict>
 			<key>hash2</key>
@@ -26,11 +57,46 @@
 			sF/Zzg6StuvZLP78zZmEyZSDaNllW2tTsfH805399J4=
 			</data>
 		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ENv0ppLZDBzH/Z4DVozhU+yRtWD2+g0vYypLTd+GXBU=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iQQ4h2KMb+tmKIutHPbRpWk7l+4fhT4hgf1aYRceB+8=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+iYK4DhfiteOETLHhUByK0njghPYAkkv8Sc2vEKc8o4=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iQQ4h2KMb+tmKIutHPbRpWk7l+4fhT4hgf1aYRceB+8=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mAys/UUOfeZLnOddKu1AghEtVnrGtjeA0ljS2HVUK3g=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0G2cjJXO2z5KCe/AmUyLSzXY+hA9YXrm+ejDlLzva0=
+			0MswuVjgJ9RKqeeTxuiY6em+6RNTrgoKuCts4tOK0yA=
 			</data>
 		</dict>
 	</dict>

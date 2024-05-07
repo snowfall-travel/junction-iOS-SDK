@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/TripSearch-Swift.h</key>
+		<data>
+		XexC6KAk1PzvhEOdxHXrG3bEF7k=
+		</data>
 		<key>Headers/TripSearch.h</key>
 		<data>
 		XRrPYc2sWlsFn2dWbK37CjiuS1o=
@@ -12,13 +16,60 @@
 		<data>
 		/iIxmLIYQEHMOrdWkFY7YNimREo=
 		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		hB9PMPJXbV3knywvIWauNQ2ffBk=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		DaCQ0allHMP/HELRwixwjaC2BBw=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		OlzlO3zK6YQX0+q1IlomMuqeoX8=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		DaCQ0allHMP/HELRwixwjaC2BBw=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		setml92jQOe4WIoCcI1BfEKQSc4=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		hB9PMPJXbV3knywvIWauNQ2ffBk=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		bUZxhygj/LC1HFnLypV30KyYIC4=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		cDZS6Bvg1Is15QsrCzWvQDftkGA=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		bUZxhygj/LC1HFnLypV30KyYIC4=
+		</data>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		Q0B0ROHLba4EUgC7AbQgdVZtDvM=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		/cudBlf7u6oDtihrNwTFG6csvqI=
+		m+o9bPXJMZF6P+5WF08fslee614=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/TripSearch-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZRdj3VwNdlDlI1XrsQk0M3pOBjf+TDnL4NVoVq8RKWQ=
+			</data>
+		</dict>
 		<key>Headers/TripSearch.h</key>
 		<dict>
 			<key>hash2</key>
@@ -26,11 +77,81 @@
 			sF/Zzg6StuvZLP78zZmEyZSDaNllW2tTsfH805399J4=
 			</data>
 		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UqYguTvQkUQwxTzuxPPkgS0Bhkhe/equT97TNm5aI68=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RDAfAyiv51NIGegVXxSwcOuzCab5h0P5ytuIwp8z4y8=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hN+X0MBeQAsjc3G30jkzNeoAXNcKn7dLI91+6tJ7fLk=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RDAfAyiv51NIGegVXxSwcOuzCab5h0P5ytuIwp8z4y8=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3QZBot5LdfAoEruhXiaIMYN24NxX9eFLdSI7lD/nTZM=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UqYguTvQkUQwxTzuxPPkgS0Bhkhe/equT97TNm5aI68=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mK/5CUtMbBj9J8c5aucHb1cluw9awg9826Jks2R+HYU=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BhYXu/xQrtH7qgjs+i0i963wLA+RYSJ/U7WSJox74VY=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mK/5CUtMbBj9J8c5aucHb1cluw9awg9826Jks2R+HYU=
+			</data>
+		</dict>
+		<key>Modules/TripSearch.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NT2YP743tcxkj4suQtCJesbyxGkSFL1l7zmAQbX+ylY=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h0G2cjJXO2z5KCe/AmUyLSzXY+hA9YXrm+ejDlLzva0=
+			0MswuVjgJ9RKqeeTxuiY6em+6RNTrgoKuCts4tOK0yA=
 			</data>
 		</dict>
 	</dict>

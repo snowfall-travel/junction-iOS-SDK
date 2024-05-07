@@ -1,0 +1,146 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TripSearch",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SearchManager",
+        "printedName": "SearchManager",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "esiminch",
+            "printedName": "esiminch",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:10TripSearch0B7ManagerC8esiminchSivp",
+            "mangledName": "$s10TripSearch0B7ManagerC8esiminchSivp",
+            "moduleName": "TripSearch",
+            "isOpen": true,
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10TripSearch0B7ManagerC8esiminchSivg",
+                "mangledName": "$s10TripSearch0B7ManagerC8esiminchSivg",
+                "moduleName": "TripSearch",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10TripSearch0B7ManagerC8esiminchSivs",
+                "mangledName": "$s10TripSearch0B7ManagerC8esiminchSivs",
+                "moduleName": "TripSearch",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:10TripSearch0B7ManagerC8esiminchSivM",
+                "mangledName": "$s10TripSearch0B7ManagerC8esiminchSivM",
+                "moduleName": "TripSearch",
+                "implicit": true,
+                "isOpen": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SearchManager",
+                "printedName": "TripSearch.SearchManager",
+                "usr": "s:10TripSearch0B7ManagerC"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:10TripSearch0B7ManagerCACycfc",
+            "mangledName": "$s10TripSearch0B7ManagerCACycfc",
+            "moduleName": "TripSearch",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:10TripSearch0B7ManagerC",
+        "mangledName": "$s10TripSearch0B7ManagerC",
+        "moduleName": "TripSearch",
+        "isOpen": true,
+        "declAttributes": [
+          "AccessControl"
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}
