@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		liP68VZT6NXPmFkbXIoNpomivnQ=
+		WMuQducC9y76VcylRZn1JDcjCX4=
 		</data>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>CabinClassView.nib</key>
 		<data>
-		GAFgWobJNk8KykM/tzAd07enN10=
+		Nf91uUdecAwU5Z/nQ1KVn87h+Gw=
 		</data>
 		<key>ChosenTripSummaryView.nib</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		QhoR1qB3DxlOKQGcfGd7/XqfYvE=
+		G+CeWJ7ksNqsnqko7tbB+iytR10=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		weralc8GiSGn4vQTtUJ1fDogb9U=
+		PXsR0aJG+MWksgN0SQh3tIOI4eE=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -142,11 +142,11 @@
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		M+K2+qBGnLwsuxXwtvbBBVcBN7g=
+		xTawcTDsQWX/awJD2ArRnwhXV/w=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		n1Vo1ZHTH89o36/OGZHuR7GHBDY=
+		Zi4cN1ylx08z6y7zPjVytmhRnmE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -455,7 +455,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VhMqf1ZmrRkKIW4awyVr3rsawby2vQ0LcZSn3zJ46kg=
+			xQST6kG91pzYc+ppbOVt/Kp4Yfiuk9aDqn5I/3XvdSg=
 			</data>
 		</dict>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
@@ -483,7 +483,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PVdcB+PHRBLc5OKPhYLICqrI7nVGf2G4zC3AZs1nXIg=
+			qQfHusL0nrHpb+EsmltghBP3fsOwTX9d0x565GMBTpo=
 			</data>
 		</dict>
 		<key>ChosenTripSummaryView.nib</key>
@@ -665,14 +665,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NR/GSEnocZFhbGr6eeAgmHRTumxYz69/t9oNZfQhGdA=
+			m/qG2Wa0FugbHb0d2j14N965K/MAhnUIqyx+Ep0e69c=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W515ujR8EHlZyOlExjZNNuTGTg4SlJ1xuZN64+fUGTU=
+			u+AoElVnv0dVSBykJDBUI0nBPaoyBcB5lBljjg8CXEM=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -686,14 +686,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9Dl0TrBja2vy+DDwABJjmPV9/TGATu0MHMbP+hfQhno=
+			s2W0/8yDl7jV/ub3n1byEJzUDoUwXFMR0Gxv/aFgTME=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			udNLXzRahBz8pBDbV3th3Buk0lvFw+Ue4zK/1cOWQA4=
+			KqTgX0vPXnPABPfTKOVvRcSvcG02udEBJUXF9LVTje0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		liP68VZT6NXPmFkbXIoNpomivnQ=
+		lnkrgLyjVFA/ONkippHHQI3U+xk=
 		</data>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		iENgw4wWVrebAd9V5CCPaOjGIj8=
+		3cSm/36qlWpGqbM0P74rgiwvUss=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Uia0zqsxBhqjQMbRC4Sm2au5KAQ=
+		MZUjs+wd0uSXf0sF0Wjg4Yd8GrM=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -142,19 +142,19 @@
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		G+kqrPPLGBKZPx/S0a0dodF0Ttc=
+		PE/fZFRRqlhrrLPYsOoBcDWyeG4=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2P8qpC+XjvhASfR9P3CxMKibIZQ=
+		tvYpvcKEtbS98KJ9JnuZNUJalDo=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		iENgw4wWVrebAd9V5CCPaOjGIj8=
+		3cSm/36qlWpGqbM0P74rgiwvUss=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		GXg/x0Vgl/9yfq5LteXQJSyu/aw=
+		vjvSZ0svHjgbnxONYjr2aE/pupQ=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -162,11 +162,11 @@
 		</data>
 		<key>Modules/TestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		v77dLKA/hhW4bdiOqJTVjn9j1IU=
+		oQ6eEv9VzASfmZLlsY7aj0fu9+U=
 		</data>
 		<key>Modules/TestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TD1brwpaj15JyXCgDTQ9IogU2Pg=
+		DzP2wSiL7REj0BLAErYOCqQ/f1E=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -475,7 +475,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VhMqf1ZmrRkKIW4awyVr3rsawby2vQ0LcZSn3zJ46kg=
+			zNt5MaLx2zEtxSQ0muo2kf5lbGjm3W64bLYDUCSD/hw=
 			</data>
 		</dict>
 		<key>Booking.storyboardc/BookingConfirmationViewController.nib</key>
@@ -685,14 +685,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0prvVgx5Q5F19atd+RscKIOMC9DCDMGqGwOiZfVT9BM=
+			OOiNBUCxwvERoYjlykb07AB0m/Od9IGl9QbAgH9R0HM=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/rvwNqBh3PU1V2hN0QPdcmObaig9zd6l5TIyilPApg0=
+			MY8H2PJ6DD2UUFn4IFuZOg2gcdt5+k22JHhwtluyC4k=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -706,28 +706,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s4Ak8BTzmMOa4sfSGhhBrHUoopfrTExPhgQIp/Yrig8=
+			4u/eYvfk1mrDVVkxC7NvMPBMqDEVAwxHS02yCIB9sxM=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WYEIKP+Y0aHDG1pUN8lCxZ+PmV6GxXajWf8R0FTGzh4=
+			QMOBfx5fuQNbZB3ACyFsqqwQE/q5aIRVhqOBvqCUJic=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0prvVgx5Q5F19atd+RscKIOMC9DCDMGqGwOiZfVT9BM=
+			OOiNBUCxwvERoYjlykb07AB0m/Od9IGl9QbAgH9R0HM=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bBV7sRyit4xC8jRI6/SCBChxgcCz0SReMPp8lM4fanE=
+			ivdPSXUowhCLsysEzIG8dClUUljxBhjPLODy7yLDSus=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -741,14 +741,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			osqyd1ysjbFETrE33ca0Z02Sjavo1U/WYWne965Kd2E=
+			DEb4Fsho5qIT4xJzReTvGUVGnNHKCkdM58sY7eOtKX0=
 			</data>
 		</dict>
 		<key>Modules/TestSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ETDKkqK25IE0TraNFxHptTOnXpMurah6Cw8nVEcEz3s=
+			bXISuPMIOF/5gkspPFe6ScOszkFjlpuz3rn2ie2Q51Y=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

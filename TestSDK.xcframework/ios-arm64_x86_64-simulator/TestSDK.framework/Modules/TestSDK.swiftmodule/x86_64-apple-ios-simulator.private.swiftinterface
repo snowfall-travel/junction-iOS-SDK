@@ -13,7 +13,6 @@ import Foundation
 import PassKit
 import PhoneNumberKit
 import SDWebImage
-import SkeletonView
 @_spi(STP) import Stripe
 @_spi(STP) import StripeCore
 @_spi(STP) import StripePaymentSheet
