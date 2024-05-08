@@ -1,0 +1,4 @@
+framework module TestSDK {
+  header "TestSDK-Swift.h"
+  requires objc
+}
