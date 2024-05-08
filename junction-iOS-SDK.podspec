@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "junction-iOS-SDK"
-  spec.version      = "1.0.48"
+  spec.version      = "1.0.49"
   spec.summary      = "SDK for travel!!!"
 
   spec.description  = "With Junction SDK, enable trip booking in every app "
@@ -22,7 +22,6 @@ Pod::Spec.new do |spec|
 
   spec.platform     = :ios, "14.0"
   spec.source     = { :git => 'https://github.com/snowfall-travel/junction-iOS-SDK.git', :tag => spec.version }
-  spec.static_framework = true
   spec.dependency 'Alamofire'
     spec.dependency 'PhoneNumberKit'
   spec.dependency 'FirebaseAnalytics'
