@@ -7939,10 +7939,6 @@ extension UIKit.UIApplication {
   @_Concurrency.MainActor(unsafe) public var mainKeyWindow: UIKit.UIWindow? {
     get
   }
-  @_Concurrency.MainActor(unsafe) public var rootViewController: UIKit.UIViewController? {
-    get
-  }
-  @_Concurrency.MainActor(unsafe) public func topViewController(controller: UIKit.UIViewController? = UIApplication.shared.rootViewController) -> UIKit.UIViewController?
 }
 public struct BooleanCollectionItem : Swift.Codable, Swift.Hashable {
   public var title: Swift.String?
