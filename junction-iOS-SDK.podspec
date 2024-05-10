@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "junction-iOS-SDK"
-  spec.version      = "1.0.50"
+  spec.version      = "1.0.51"
   spec.summary      = "SDK for travel!!!"
 
   spec.description  = "With Junction SDK, enable trip booking in every app "
