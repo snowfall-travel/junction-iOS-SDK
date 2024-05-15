@@ -12,7 +12,7 @@ let package = Package(
             targets: ["TestSDK"]),
     ],
     
-    dependencies: [.package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.6.1"), .package(url: "https://github.com/marmelroy/PhoneNumberKit/tree/master", from: "3.7.10")],
+    dependencies: [.package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.6.1"), .package(url: "https://github.com/marmelroy/PhoneNumberKit", from: "3.7.10")],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
